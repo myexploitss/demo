@@ -48,6 +48,7 @@ export default function Home() {
 
   return (
     <SafeAreaView style={styles.container}>
+      {/* done the basic things */}
       <ScrollView style={{padding: 24, backgroundColor: '#12111A'}}>
         <View style={styles.header}>
           <View style={styles.icon}>
